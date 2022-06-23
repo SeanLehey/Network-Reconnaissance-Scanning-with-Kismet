@@ -1,4 +1,4 @@
-# Network-Reconnaissance-with-Kismet
+# Network Reconnaissance Scanning with Kismet
 An independent, ethics-first learning project by Sean Lehey.
 
 ## **Disclaimer**
