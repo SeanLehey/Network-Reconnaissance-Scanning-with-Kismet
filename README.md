@@ -4,6 +4,12 @@ An independent, ethics-first learning project by Sean Lehey.
 ## **Disclaimer**
 This project is intended to demonstrate my learning process using Kismet. Please note that the scope of this project is simply limited to reconnaissance and identification of nearby SSIDs. No attempt was made to join any networks, circumvent any security measures, or take adverse action on network devices. Ethics are my foremost priority while learning networking tools, so MAC addresses, SSIDs, and other identifying information will be censored to respect the privacy of these networks and devices.
 
+## Table of Contents
+
+[Part 1: Setting up the Wireless Network Adapter](#part-1-setting-up-the-wireless-network-adapter)   
+[Part 2: Scanning for Nearby Networks](#part-2-scanning-for-nearby-networks)   
+[Part 3: Conclusion and Final Thoughts](#part-3-conclusion-and-final-thoughts)   
+
 ## **Tools Used**
 
 ### **Hardware**
