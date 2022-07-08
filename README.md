@@ -23,7 +23,7 @@ This project is intended to demonstrate my learning process using Kismet. Please
 
 
 ## **Acknowledgements**
-This video by SecurityFWD which introduced me to Kismet: https://www.youtube.com/watch?v=Qs9xPmUqzHI
+This video by SecurityFWD on signals intelligence with Kismet: https://www.youtube.com/watch?v=Qs9xPmUqzHI
 
 Rogue Vault's WiFi adapter troubleshooting guide found here: https://www.youtube.com/watch?v=aXagM9G_nFE
 
