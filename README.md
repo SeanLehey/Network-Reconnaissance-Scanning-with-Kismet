@@ -115,7 +115,7 @@ Another important column is *Sgn*, or signal strength. This is measured in dBm (
 This part's really cool. If you left-click any access point in the main dashboard, navigate to the *WiFi (802.11)* menu, and select *Associated Clients*, Kismet will display some information about associated devices such as their MAC address, manufacturer, and connection type, as seen here:
 
 ![deviceInfo](https://user-images.githubusercontent.com/107720480/174921103-ce1e1dde-330f-421c-90fc-915b12cad15a.png)   
-*Note: This is an association scan of my own personal home network.*
+*Note: I own this device and the scan was performed on my own home network.*
 
 While the associated devices option won't share the exact make and model, you can still find that out by looking up the MAC address (censored above). For this example, the associated device is my laptop. If I had an iPhone or MacBook connected to my network, it would display another entry where the manufacturer is Apple. One very useful function of this tool is to check if there are any potentially unwanted devices on a network, like a Raspberry Pi, for instance, which could be a potential indicator of compromise.
 
