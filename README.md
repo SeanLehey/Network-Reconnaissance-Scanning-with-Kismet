@@ -23,9 +23,9 @@ This project is intended to demonstrate my learning process using Kismet. Please
 
 
 ## **Acknowledgements**
-This video by SecurityFWD on signals intelligence with Kismet: https://www.youtube.com/watch?v=Qs9xPmUqzHI
+1. [This video](https://www.youtube.com/watch?v=Qs9xPmUqzHI) by SecurityFWD on signals intelligence with Kismet.
 
-Rogue Vault's WiFi adapter troubleshooting guide found here: https://www.youtube.com/watch?v=aXagM9G_nFE
+2. Rogue Vault's WiFi adapter troubleshooting guide found [here](https://www.youtube.com/watch?v=aXagM9G_nFE).
 
 
 ## Part 1: Setting up the Wireless Network Adapter
@@ -112,12 +112,12 @@ Another important column is *Sgn*, or signal strength. This is measured in dBm (
 
 ### Viewing Associated Devices on Nearby Networks
 
-This part's really cool. If you left-click any access point in the main dashboard, navigate to the *WiFi (802.11)* menu, and select *Associated Clients*, Kismet will display some information about associated devices such as their MAC address, manufacturer, and connection type, as seen here:
+This part's really cool. If you left-click any access point in the main dashboard, navigate to the *WiFi (802.11)* menu, and select *Associated Clients*, Kismet will display some information about associated devices such as their MAC address, manufacturer, and connection type, as seen here<sup>[1]</sup>:
 
 ![deviceInfo](https://user-images.githubusercontent.com/107720480/174921103-ce1e1dde-330f-421c-90fc-915b12cad15a.png)   
 *Note: I own this device and the scan was performed on my own home network.*
 
-While the associated devices option won't share the exact make and model, you can still find that out by looking up the MAC address (censored above). For this example, the associated device is my laptop. If I had an iPhone or MacBook connected to my network, it would display another entry where the manufacturer is Apple. One very useful function of this tool is to check if there are any potentially unwanted devices on a network, like a Raspberry Pi, for instance, which could be a potential indicator of compromise.
+While the associated devices option won't share the exact make and model, you can still find that out by looking up the MAC address (censored above). For this example, the associated device is my laptop. If I had an iPhone or MacBook connected to my network, it would display another entry where the manufacturer is Apple. One very useful function of this tool is to check if there are any potentially unwanted devices on a network, like a Raspberry Pi, for instance, which could be a potential indicator of compromise<sup>[1]</sup>.
 
 
 ## Part 3: Conclusion and Final Thoughts
